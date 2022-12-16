@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cgrondi
 - 👀 I’m interested in fullstack software development 
-- 🌱 I’m currently learning Angular
-- 🧑🏼‍💻 You can visit my web portfolio at https://pure-atoll-45755.herokuapp.com/
+- 🌱 I’m currently learning Java Springboot
 - 📫 How to reach me cameron.grondines@gmail.com
 
 Languages and Tools:
